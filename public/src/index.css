@@ -1,0 +1,25 @@
+main {
+    overflow: scroll;
+}
+
+main::-webkit-scrollbar {
+    display: none;
+}
+
+/* ROUTER APP */
+.borderRight {
+    border-right: solid 1px #002329 !important;
+}
+
+.ant-menu-item-selected {
+    background: #002329 !important;
+}
+
+/* PANTALLA PUBLICA */
+.ant-card {
+    border: solid 1px #d9d9d9;
+}
+
+.ant-card-actions {
+    background: #d9d9d9;
+}
